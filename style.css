@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.nvm{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    margin-top:50px;
+
+}
+.nvm2{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    margin-top: 500px;
+}
+body{
+    background: url(nvm.png);
+}
